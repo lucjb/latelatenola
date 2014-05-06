@@ -1,0 +1,7 @@
+<?php
+ 
+class Repe extends Eloquent {
+ 
+    protected $table = 'urls';
+ 
+}
